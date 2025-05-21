@@ -44,7 +44,7 @@ Security Alerts: Automated news updates in a designated channel
 
 Install required packages:
 
-pip install discord.py requests dnspython cryptography python-dotenv
+<pip install discord.py requests dnspython cryptography python-dotenv>
 
 
 
@@ -52,7 +52,7 @@ Create a config.json file with your API keys and bot token
 
 Run the bot:
 
-python cybersecurity_bot.py
+<python cybersecurity_bot.py>
 
 
 # Remember to handle sensitive data carefully and ensure your bot follows Discord's Terms of Service.
