@@ -1,0 +1,7 @@
+{
+    "discord_token": "YOUR_DISCORD_BOT_TOKEN",
+    "virustotal_api_key": "YOUR_VIRUSTOTAL_API_KEY",
+    "abuseipdb_api_key": "YOUR_ABUSEIPDB_API_KEY",
+    "news_api_key": "YOUR_NEWSAPI_KEY",
+    "alerts_channel_id": "YOUR_ALERTS_CHANNEL_ID"
+}
